@@ -1,0 +1,11 @@
+C:\Users\ibc\source\repos\PIMS.Model\bin\Debug\net6.0\PIMS.Model.deps.json
+C:\Users\ibc\source\repos\PIMS.Model\bin\Debug\net6.0\PIMS.Model.dll
+C:\Users\ibc\source\repos\PIMS.Model\bin\Debug\net6.0\PIMS.Model.pdb
+C:\Users\ibc\source\repos\PIMS.Model\obj\Debug\net6.0\PIMS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibc\source\repos\PIMS.Model\obj\Debug\net6.0\PIMS.Model.AssemblyInfoInputs.cache
+C:\Users\ibc\source\repos\PIMS.Model\obj\Debug\net6.0\PIMS.Model.AssemblyInfo.cs
+C:\Users\ibc\source\repos\PIMS.Model\obj\Debug\net6.0\PIMS.Model.csproj.CoreCompileInputs.cache
+C:\Users\ibc\source\repos\PIMS.Model\obj\Debug\net6.0\PIMS.Model.dll
+C:\Users\ibc\source\repos\PIMS.Model\obj\Debug\net6.0\refint\PIMS.Model.dll
+C:\Users\ibc\source\repos\PIMS.Model\obj\Debug\net6.0\PIMS.Model.pdb
+C:\Users\ibc\source\repos\PIMS.Model\obj\Debug\net6.0\ref\PIMS.Model.dll

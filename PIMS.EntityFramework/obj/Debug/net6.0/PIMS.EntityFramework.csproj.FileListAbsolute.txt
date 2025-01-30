@@ -1,0 +1,14 @@
+C:\Users\ibc\source\repos\PIMS.EntityFramework\obj\Debug\net6.0\PIMS.EntityFramework.csproj.AssemblyReference.cache
+C:\Users\ibc\source\repos\PIMS.EntityFramework\obj\Debug\net6.0\PIMS.EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibc\source\repos\PIMS.EntityFramework\obj\Debug\net6.0\PIMS.EntityFramework.AssemblyInfoInputs.cache
+C:\Users\ibc\source\repos\PIMS.EntityFramework\obj\Debug\net6.0\PIMS.EntityFramework.AssemblyInfo.cs
+C:\Users\ibc\source\repos\PIMS.EntityFramework\obj\Debug\net6.0\PIMS.EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\ibc\source\repos\PIMS.EntityFramework\bin\Debug\net6.0\PIMS.EntityFramework.deps.json
+C:\Users\ibc\source\repos\PIMS.EntityFramework\bin\Debug\net6.0\PIMS.EntityFramework.runtimeconfig.json
+C:\Users\ibc\source\repos\PIMS.EntityFramework\bin\Debug\net6.0\PIMS.EntityFramework.dll
+C:\Users\ibc\source\repos\PIMS.EntityFramework\bin\Debug\net6.0\PIMS.EntityFramework.pdb
+C:\Users\ibc\source\repos\PIMS.EntityFramework\obj\Debug\net6.0\PIMS.EntityFramework.dll
+C:\Users\ibc\source\repos\PIMS.EntityFramework\obj\Debug\net6.0\refint\PIMS.EntityFramework.dll
+C:\Users\ibc\source\repos\PIMS.EntityFramework\obj\Debug\net6.0\PIMS.EntityFramework.pdb
+C:\Users\ibc\source\repos\PIMS.EntityFramework\obj\Debug\net6.0\PIMS.EntityFramework.genruntimeconfig.cache
+C:\Users\ibc\source\repos\PIMS.EntityFramework\obj\Debug\net6.0\ref\PIMS.EntityFramework.dll

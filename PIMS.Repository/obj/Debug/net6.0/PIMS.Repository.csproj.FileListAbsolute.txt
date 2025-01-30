@@ -1,0 +1,15 @@
+C:\Users\ibc\source\repos\PIMS.Repository\bin\Debug\net6.0\PIMS.Repository.deps.json
+C:\Users\ibc\source\repos\PIMS.Repository\bin\Debug\net6.0\PIMS.Repository.dll
+C:\Users\ibc\source\repos\PIMS.Repository\bin\Debug\net6.0\PIMS.Repository.pdb
+C:\Users\ibc\source\repos\PIMS.Repository\bin\Debug\net6.0\PIMS.EntityFramework.dll
+C:\Users\ibc\source\repos\PIMS.Repository\bin\Debug\net6.0\PIMS.EntityFramework.pdb
+C:\Users\ibc\source\repos\PIMS.Repository\obj\Debug\net6.0\PIMS.Repository.csproj.AssemblyReference.cache
+C:\Users\ibc\source\repos\PIMS.Repository\obj\Debug\net6.0\PIMS.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibc\source\repos\PIMS.Repository\obj\Debug\net6.0\PIMS.Repository.AssemblyInfoInputs.cache
+C:\Users\ibc\source\repos\PIMS.Repository\obj\Debug\net6.0\PIMS.Repository.AssemblyInfo.cs
+C:\Users\ibc\source\repos\PIMS.Repository\obj\Debug\net6.0\PIMS.Repository.csproj.CoreCompileInputs.cache
+C:\Users\ibc\source\repos\PIMS.Repository\obj\Debug\net6.0\PIMS.Rep.1A1F2C94.Up2Date
+C:\Users\ibc\source\repos\PIMS.Repository\obj\Debug\net6.0\PIMS.Repository.dll
+C:\Users\ibc\source\repos\PIMS.Repository\obj\Debug\net6.0\refint\PIMS.Repository.dll
+C:\Users\ibc\source\repos\PIMS.Repository\obj\Debug\net6.0\PIMS.Repository.pdb
+C:\Users\ibc\source\repos\PIMS.Repository\obj\Debug\net6.0\ref\PIMS.Repository.dll
